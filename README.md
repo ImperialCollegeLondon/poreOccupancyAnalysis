@@ -16,7 +16,7 @@ To use this code, you first need to perform pore network extraction. To familiar
 
 ## Standalone Software (poreXtractor)
 ![Image Alt Text](Icon.png)
-Included in the repository is a __windows-based standalone software__ inside the [**bin.zip**](https://github.com/ImperialCollegeLondon/porescale/blob/master/codes/poreOccupancyAnalysis/bin.zip) file, which simplifies the entire process. This standalone software does not require any dependencies. A sample porous media file is provided for you to test the software and familiarize yourself with its functionality.
+Included in the repository is a __windows-based standalone software__ inside the [**bin.zip**][(https://github.com/ImperialCollegeLondon/porescale/blob/master/codes/poreOccupancyAnalysis/bin.zip)](https://github.com/ImperialCollegeLondon/poreOccupancyAnalysis/blob/main/bin.zip) file, which simplifies the entire process. This standalone software does not require any dependencies. A sample porous media file is provided for you to test the software and familiarize yourself with its functionality.
 
 ## Usage
 
