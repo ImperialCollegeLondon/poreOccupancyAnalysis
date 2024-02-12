@@ -41,15 +41,15 @@ By following these steps, you'll ensure compatibility with our software.
 If you find this code and poreXtractor standalone software useful and use it in your research or project, please consider citing the following papers that describe the underlying methods and models:
 
 
-1. [**Foroughi, Sajjad, et al. "Pore-by-pore modeling, analysis, and prediction of two-phase flow in mixed-wet rocks." Physical Review E 102.2 (2020): 023302.**](https://doi.org/10.1103/PhysRevE.102.023302)
+**1.** [**Foroughi, Sajjad, et al. "Pore-by-pore modeling, analysis, and prediction of two-phase flow in mixed-wet rocks." Physical Review E 102.2 (2020): 023302.**](https://doi.org/10.1103/PhysRevE.102.023302)
   
-2. [**Foroughi, Sajjad, Branko Bijeljic, and Martin J. Blunt. "Pore-by-pore modelling, validation and prediction of waterflooding in oil-wet rocks using dynamic synchrotron data." Transport in Porous Media 138.2 (2021): 285-308.**](https://doi.org/10.1007/s11242-021-01609-y)
+**2.** [**Foroughi, Sajjad, Branko Bijeljic, and Martin J. Blunt. "Pore-by-pore modelling, validation and prediction of waterflooding in oil-wet rocks using dynamic synchrotron data." Transport in Porous Media 138.2 (2021): 285-308.**](https://doi.org/10.1007/s11242-021-01609-y)
 
 Additionally, [**pnextract**](https://github.com/ImperialCollegeLondon/pnextract.git) is based on these references:
 
-3. [**Dong, Hu, and Martin J. Blunt. "Pore-network extraction from micro-computerized-tomography images." Physical review E 80.3 (2009): 036307.**](https://doi.org/10.1103/PhysRevE.80.036307)
+**3.** [**Dong, Hu, and Martin J. Blunt. "Pore-network extraction from micro-computerized-tomography images." Physical review E 80.3 (2009): 036307.**](https://doi.org/10.1103/PhysRevE.80.036307)
 
-4. [**Raeini, Ali Q., Branko Bijeljic, and Martin J. Blunt. "Generalized network modeling: Network extraction as a coarse-scale discretization of the void space of porous media." Physical Review E 96.1 (2017): 013312.**](https://doi.org/10.1103/PhysRevE.96.013312)
+**4.** [**Raeini, Ali Q., Branko Bijeljic, and Martin J. Blunt. "Generalized network modeling: Network extraction as a coarse-scale discretization of the void space of porous media." Physical Review E 96.1 (2017): 013312.**](https://doi.org/10.1103/PhysRevE.96.013312)
 
 By citing our work, you will help others to understand the foundation of this code and contribute to the recognition of our research efforts.
 
