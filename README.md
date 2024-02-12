@@ -27,7 +27,7 @@ To utilize this software effectively, please follow these steps:
 
 **2.** Once you have selected the dry-scan image, you will be prompted to enter image details, including size (Nx * Ny * Nz) and voxel size. The code will automatically insert the image size and voxel size into the MHD file based on the information you provide. 
 
-**3.** To perform the pore occupancy analysis of two-phase flow images (wet images), please ensure that they are in raw or TIF format and are in <u>8-bit<\u>. 
+**3.** To perform the pore occupancy analysis of two-phase flow images (wet images), please ensure that they are in raw or TIF format and are in <u>8-bit</u>. 
 
 By following these steps, you'll ensure compatibility with our software.
 
