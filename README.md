@@ -7,9 +7,9 @@ This code allows you to perform detailed pore occupancy analysis on wet micro-CT
 
 - **Pore and Throat Size Distributions for Specific Phases:** The code creates distribution charts for pores and throats that contain a specific phase. These charts are plotted against pore and throat radii, offering a clear visual representation of phase distribution in your porous media. It's worth mentioning that both volume-weighted and frequency-based types of distributions can be generated. Tabulated data is also provided for further analysis. 
 
-- **Overall Pore and Throat Distributions:** In addition to specific phase distributions, the code also provides the distribution data for all pores and throats within the extracted network (Both volume-weighted and frequency-based types of distributions can be generated). This is useful for comprehensive network analysis and comparisons between different phases.
+- **Overall Pore and Throat Distributions:** In addition to specific phase distributions, the code also provides the distribution results for all pores and throats within the extracted network (Both volume-weighted and frequency-based types of distributions can be generated). This is useful for comprehensive network analysis and comparisons between different phases.
 
-- **Isolated Pore and Throat Distributions:** In addition to all pore and throat distributions, the code also provides distribution data for isolated pores and throats within the extracted network (Both volume-weighted and frequency-based types of distributions can be generated). These distributions represent elements that are not connected to the inlet or outlet via the resolved pore space.
+- **Isolated Pore and Throat Distributions:** In addition to all pore and throat distributions, the code also provides distribution results for isolated pores and throats within the extracted network (Both volume-weighted and frequency-based types of distributions can be generated). These distributions represent elements that are not connected to the inlet or outlet via the resolved pore space.
 
 ## Required Repository
 
