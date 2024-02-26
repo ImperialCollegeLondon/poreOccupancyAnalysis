@@ -9,6 +9,8 @@ This code allows you to perform detailed pore occupancy analysis on wet micro-CT
 
 - **Overall Pore and Throat Distributions:** In addition to specific phase distributions, the code also provides the distribution data for all pores and throats within the extracted network (Both volume-weighted and frequency-based types of distributions can be generated). This is useful for comprehensive network analysis and comparisons between different phases.
 
+- **Isolated Pore and Throat Distributions:** In addition to all pore and throat distributions, the code also provides distribution data for isolated pores and throats within the extracted network (Both volume-weighted and frequency-based types of distributions can be generated). These distributions represent elements that are not connected to the inlet or outlet via the resolved pore space.
+
 ## Required Repository
 
 To use this code, you first need to perform pore network extraction. To familiarize yourself with the network extraction process from dry scans, please check out the [**pnextract**](https://github.com/ImperialCollegeLondon/pnextract.git) repository.
